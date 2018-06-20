@@ -4,7 +4,7 @@ x-collection-name: Google Cloud Container Builder
 x-complete: 1
 info:
   title: Google Cloud Container Builder
-  description: builds-container-images-in-the-cloud
+  description: builds-container-images-in-the-cloud-
   contact:
     name: Google
     url: https://google.com
