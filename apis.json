@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Cloud Container Builder",
+	"description": "This is a repository of google cloud container builder APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-cloud-container-builder.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-cloud-container-builder.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Cloud Container Builder",
+			"x-api-slug": "google-cloud-container-builder",
+			"description": "Google Cloud Container Builder lets you create Docker container images from application source code located in Google Cloud Storage. Container images created by Container Builder are automatically stored in Google Container Registry. You can deploy the container images you create on Google Container Engine, Google Compute Engine, Google App Engine flexible environment or other services where you can run applications from Docker containers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/container-builder-lead.png",
+			"humanURL": "https://cloud.google.com/container-builder/",
+			"baseURL": "://cloudbuild.googleapis.com//",
+			"tags": "Google Cloud Container Builder",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-container-builder/master/_listings/google-cloud-container-builder/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Cloud Container Builder",
+	"include": [
+		{
+			"name": "Google Cloud Container Builder",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-container-builder/master/_listings/google-cloud-container-builder/apis.yaml"
+		}
+	]
+}

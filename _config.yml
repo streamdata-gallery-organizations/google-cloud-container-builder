@@ -4,7 +4,7 @@ url: google-cloud-container-builder.streamdata.gallery
 tag: Google Cloud Container Builder
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: google-cloud-container-builder
 github_branch: master
 collections:
